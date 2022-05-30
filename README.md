@@ -1,4 +1,5 @@
-Привет! Я начинающий frontend-developer. Вот стэк технологий, с которыми я работаю:  
+Hi! I'm junior frontend developer. 
+This is my skills:  
 •HTML •CSS/SCSS •JS ES6+ •React •Redux •Next.js •PHP and Node.js(express) •Git  
-Cо мной можно связаться в телеграмме: @coke666ck  
-Или написать мне на почту: ghalumyan@icloud.com  	
+Telegram: @coke666ck  
+E-mail: ghalumyan@icloud.com  	
