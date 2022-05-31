@@ -3,8 +3,8 @@ This is my skills:
 •HTML CSS/SCSS ★★★★★\
 •JS ES6+ ★★★★★\
 •React ★★★★\
-•Git ★★★★\
 •Redux ★★★★\
+•Git ★★★★\
 •Next.js ★★★\
 •Node.js(express) ★★\
 •PHP ★★
