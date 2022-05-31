@@ -4,7 +4,7 @@ This is my skills:
 •JS ES6+ ★★★★★\
 •React ★★★★\
 •Git ★★★★\
-•Redux ★★★\
+•Redux ★★★★\
 •Next.js ★★★\
 •Node.js(express) ★★\
 •PHP ★★
