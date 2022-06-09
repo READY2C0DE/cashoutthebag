@@ -4,10 +4,10 @@ This is my skills:
 •JS ES6+ ★★★★★\
 •React ★★★★\
 •Redux ★★★★\
+•Express ★★★★\
 •Git ★★★★\
+•Node.js ★★★\
 •Next.js ★★★\
-•Node.js(express) ★★\
-•PHP ★★
 
 Telegram: @coke666ck  
 E-mail: ghalumyan@icloud.com  	
