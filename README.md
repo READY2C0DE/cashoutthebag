@@ -7,7 +7,7 @@ This is my skills:
 •Express ★★★★\
 •Git ★★★★\
 •Node.js ★★★\
-•Next.js ★★★\
+•Next.js ★★★
 
 Telegram: @coke666ck  
 E-mail: ghalumyan@icloud.com  	
