@@ -9,6 +9,7 @@ This is my skills:
 •Express ★★★★\
 •Git ★★★★\
 •Node.js ★★★\
+•MongoDB ★★★\
 •Next.js ★★★
 
 Telegram: @coke666ck  
