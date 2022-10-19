@@ -1,5 +1,5 @@
 # Hello World! I'm Tigran (っ◔◡◔)っ
-## Junior frontend developer from Georgia, Tbilisi <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" width="32"/>
+## Junior frontend developer 
 
 * Interested in WEB, UI/UX
 * Study new technologies and constantly developing
