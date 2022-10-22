@@ -1,5 +1,5 @@
 # Hello World! I'm Tigran (っ◔◡◔)っ
-## Junior frontend developer 
+## Frontend developer 
 
 * Interested in WEB, UI/UX
 * Study new technologies and constantly developing
