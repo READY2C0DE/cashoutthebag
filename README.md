@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 ### Statistics ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashoutthebag&layout=compact&theme=dark)](https://github.com/cashoutthebag/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=READY2C0DE&layout=compact&theme=dark)](https://github.com/cashoutthebag/github-readme-stats)  
 [![codewars](https://www.codewars.com/users/cashoutthebag/badges/large)](https://www.codewars.com/users/cashoutthebag)   
 
 ### Contacts ###
