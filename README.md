@@ -1,4 +1,4 @@
-# Hello World! I'm Tigran (っ◔◡◔)っ
+# Hello World(っ◔◡◔)っ
 ## Frontend developer 
 
 * Interested in WEB, UI/UX
