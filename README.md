@@ -26,7 +26,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 ### Statistics ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ady2Code&layout=compact&theme=dark)](https://github.com/READY2C0DE/github-readme-stats)  
 [![codewars](https://www.codewars.com/users/READY2C0DE/badges/large)](https://www.codewars.com/users/READY2C0DE)   
 
 ### Contacts ###
